@@ -1,0 +1,3 @@
+output_dir: results-bert-base-uncased
+cluster: True
+model_name: bert-base-uncased
