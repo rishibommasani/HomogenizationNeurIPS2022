@@ -1,8 +1,7 @@
 # Outcome Homogenization
 
 This codebase provides tooling to measure outcome homogenization.
-Additionally, it provides the code for running experiments and visualizing results. 
-These experiments and results are described in the NeurIPS 2022 paper **Picking on the Same Person: Does Algorithmic Monoculture lead to Outcome Homogenization?** by Rishi Bommasani, Kathleen A. Creel, Ananya Kumar, Dan Jurafsky, and Percy Liang.
+Additionally, it provides the code for running experiments and visualizing results described in the NeurIPS 2022 paper **Picking on the Same Person: Does Algorithmic Monoculture lead to Outcome Homogenization?** by Rishi Bommasani, Kathleen A. Creel, Ananya Kumar, Dan Jurafsky, and Percy Liang.
 
 
 # Roadmap
