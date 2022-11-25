@@ -20,7 +20,7 @@ To visualize results, all functionality is provided in `visuals.py`.
 
 # Use cases
 
-The main use case we envision for the codebase is to meausre homogenization on your own data. For this, the main utility is provided by `homogenization.py`, wherein the data structures assumed are pre-specified. We plan to release an even simpler package in the future to facilitate homogenization measurement.
+The main use case we envision for the codebase is to measure homogenization on your own data. For this, the main utility is provided by `homogenization.py`, wherein the data structures assumed are pre-specified. We plan to release an even simpler package in the future to facilitate homogenization research.
 
 # Questions
 
